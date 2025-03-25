@@ -2,7 +2,7 @@
 
 **`Estudante de Sistemas de Informação | Futuro Desenvolvedor`**
 
-Me chamo Andrey Tomaz, tenho 19 anos e sou estudante do terceiro semestre de **Sistemas de Informação**. Atualmente, estou focado em aprender **Python** para consumo de APIs e desenvolvimento mobile. Busco constantemente aprimorar minhas habilidades e explorar novas oportunidades na área de tecnologia.
+Me chamo Andrey Tomaz, tenho 19 anos e sou estudante do terceiro semestre de **Sistemas de Informação na Faculdade Impacta**. Atualmente, estou focado em aprender **Python** para consumo de APIs e desenvolvimento mobile. Busco constantemente aprimorar minhas habilidades e explorar novas oportunidades na área de tecnologia.
 
 ---
 
